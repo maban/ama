@@ -2,19 +2,15 @@
 
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc)
 
-I get a lot of questions by email. This way anyone can read the answer!
+I'm a front-end developer working at [Snyk](https://snyk.io/) in London. Before that, I was freelance for 8 years, and before that, I worked at a juice bar at the weekends and [dressed up as a strawberry](https://www.youtube.com/watch?v=Ok6607aTBB4).
 
-Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
-
--
+I get quite a few emails every week asking questions that I thought might be useful to others if I answered here.
 
 ### Guidelines
 
-- Ensure your question hasn't already been answered.
+- Check your question hasn't already been answered.
 - Use a succinct title and description.
-- Bugs & feature requests should be opened on the relevant issue tracker.
-- Support questions are better asked on Stack Overflow.
-- Be civil and polite.
+- Be nice.
 
 ### Links
 
