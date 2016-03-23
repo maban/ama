@@ -12,7 +12,7 @@ I get quite a few emails every week asking questions that I thought might be use
 - Use a succinct title and description.
 - Be nice.
 
-![](https://s-media-cache-ak0.pinimg.com/originals/c4/dd/5d/c4dd5d671bb86d8551e9697c2d9ece06.gif)!
+![](https://s-media-cache-ak0.pinimg.com/originals/c4/dd/5d/c4dd5d671bb86d8551e9697c2d9ece06.gif)
 
 ### Links
 
