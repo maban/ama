@@ -1,6 +1,6 @@
 # Ask me anything!
 
-## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc)
+## ️[Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc)
 
 I'm a front-end developer working at [Snyk](https://snyk.io/) in London. Before that, I was freelance for 8 years, and before that, I worked at a juice bar at the weekends and [dressed up as a strawberry](https://www.youtube.com/watch?v=Ok6607aTBB4).
 
@@ -11,6 +11,8 @@ I get quite a few emails every week asking questions that I thought might be use
 - Check your question hasn't already been answered.
 - Use a succinct title and description.
 - Be nice.
+
+![](https://s-media-cache-ak0.pinimg.com/originals/c4/dd/5d/c4dd5d671bb86d8551e9697c2d9ece06.gif)!
 
 ### Links
 
